@@ -1,0 +1,26 @@
+{
+  "name": "andresousastarter",
+  "version": "1.0.0",
+  "description": "Workflow set up for my front end projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "André Sousa",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.4.9",
+    "browser-sync": "^2.26.3",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify-es": "^1.0.4",
+    "imagemin-mozjpeg": "^8.0.0",
+    "node-sass": "^4.11.0"
+  }
+}
